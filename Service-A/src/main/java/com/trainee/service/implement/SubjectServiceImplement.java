@@ -14,6 +14,12 @@ import com.trainee.service.SubjectService;
 
 import lombok.extern.java.Log;
 
+/**
+ * Clase donde se implementa la lógica de {@link SubjectService}
+ * 
+ * @author aescalan
+ *
+ */
 @Log
 @Service
 public class SubjectServiceImplement implements SubjectService {
@@ -21,12 +27,18 @@ public class SubjectServiceImplement implements SubjectService {
   @Autowired
   SubjectRepository subjectRepository;
 
+  /**
+   * Método para retornar una lista de objetos
+   */
   @Override
   public List<Subject> getAll() {
     log.info("Getting all subjects");
     return (List<Subject>) subjectRepository.findAll();
   }
 
+  /**
+   * Método para retornar un objeto por id
+   */
   @Override
   public Subject getById(int subjectId) {
     log.info("Getting subject by id");
@@ -34,6 +46,9 @@ public class SubjectServiceImplement implements SubjectService {
     return subjects;
   }
 
+  /**
+   * Método para crear un objeto
+   */
   @Override
   public Subject post(Subject subject) {
     if (subjectRepository.findById(subject.getId()) == null) {
@@ -45,6 +60,9 @@ public class SubjectServiceImplement implements SubjectService {
     }
   }
 
+  /**
+   * Método para actualizar un objeto
+   */
   @Override
   public void putById(int subjectId, Subject subject) {
     if (subjectRepository.findById(subject.getId()) != null) {
@@ -56,6 +74,9 @@ public class SubjectServiceImplement implements SubjectService {
     }
   }
 
+  /**
+   * Método para eliminar un objeto
+   */
   @Override
   public void delete(int subjectId) {
     if (subjectRepository.findById(subjectId) != null) {
@@ -64,6 +85,9 @@ public class SubjectServiceImplement implements SubjectService {
     }
   }
 
+  /**
+   * Método para acctualizar 1 o más campos del objeto
+   */
   @Override
   public void patchById(int subjectId, Map<String, Object> fields) {
     Subject subject = getById(subjectId);

@@ -3,7 +3,6 @@ package com.trainee.model;
 import java.sql.Date;
 import java.util.Set;
 
-import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -61,10 +60,11 @@ public class ClassModel {
   private Teacher teacher;
 
   @JsonIgnore
-  @OneToMany(mappedBy = "classes", cascade = CascadeType.ALL)
+  @OneToMany(mappedBy = "classes")
   private Set<StudentClass> studentClass;
 
   @JsonIgnore
   @Column(name = "delete_status")
   private byte deleteStatus = 1;
+
 }

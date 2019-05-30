@@ -9,15 +9,15 @@ import org.springframework.data.util.ReflectionUtils;
 import org.springframework.stereotype.Service;
 
 import com.trainee.model.ClassModel;
+import com.trainee.model.projection.StudentProjection;
 import com.trainee.repository.ClassRepository;
 import com.trainee.service.ClassService;
 
 import lombok.extern.java.Log;
 
 /**
- * Clase donde se realizá la lógica del servicio de ClassService
+ * Clase donde se implementa la lógica del servicio de {@link ClassService}
  * 
- * @see com.trainee.service.ClassService
  * @author aescalan
  *
  */
@@ -28,12 +28,18 @@ public class ClassServiceImplement implements ClassService {
   @Autowired
   ClassRepository classRepository;
 
+  /**
+   * Método para retornar una lista de objetos
+   */
   @Override
   public List<ClassModel> getAll() {
     log.info("Getting all classes");
     return (List<ClassModel>) classRepository.findAll();
   }
 
+  /**
+   * Método para retornar un objeto por id
+   */
   @Override
   public ClassModel getById(int classId) {
     log.info("Getting class by id");
@@ -41,6 +47,9 @@ public class ClassServiceImplement implements ClassService {
     return classes;
   }
 
+  /**
+   * Método para crear un objeto
+   */
   @Override
   public ClassModel post(ClassModel classes) {
     if (classRepository.findById(classes.getId()) == null) {
@@ -52,6 +61,9 @@ public class ClassServiceImplement implements ClassService {
     }
   }
 
+  /**
+   * Método para actualizar un objeto
+   */
   @Override
   public void putById(int classId, ClassModel classes) {
     if (classRepository.findById(classes.getId()) != null) {
@@ -63,6 +75,9 @@ public class ClassServiceImplement implements ClassService {
     }
   }
 
+  /**
+   * Método para eliminar un objeto
+   */
   @Override
   public void delete(int classId) {
     if (classRepository.findById(classId) != null) {
@@ -71,6 +86,9 @@ public class ClassServiceImplement implements ClassService {
     }
   }
 
+  /**
+   * Método para acctualizar 1 o más campos del objeto
+   */
   @Override
   public void patchById(int classId, Map<String, Object> fields) {
     ClassModel classes = getById(classId);
@@ -84,6 +102,11 @@ public class ClassServiceImplement implements ClassService {
     log.info("Class was patched");
     classRepository.save(classes);
 
+  }
+
+  @Override
+  public List<StudentProjection> getAllStudents() {
+    return classRepository.getAll();
   }
 
 }

@@ -26,7 +26,7 @@ public interface SubjectRepository extends CrudRepository<Subject, Integer> {
    * Método para obtener un objeto de {@link Subject} donde el deleteStatus sea
    * igual a 1
    * 
-   * @param classId Recibe un parámetro de tipo int para obtener el id
+   * @param subjectId Recibe un parámetro de tipo int para obtener el id
    * @return objeto de la entidad Subject
    */
   @Query("select s from Subject s where s.deleteStatus=1 and s.id=?1")
@@ -49,15 +49,15 @@ public interface SubjectRepository extends CrudRepository<Subject, Integer> {
    * @return lista de objetos de la entidad Subject
    */
   @Query("select s from Subject s where s.deleteStatus=0")
-  public List<Subject> findDeletes(byte deleteStatus);
+  public List<Subject> findDeletes();
 
   /**
    * Método para la eliminación lógica de un objeto de {@link Subject}
    * 
-   * @param classId Recibe un parámetro de tipo int para obtener el id
+   * @param subjectId Recibe un parámetro de tipo int para obtener el id
    */
   @Query("update Subject s set s.deleteStatus= 0 where s.id=?1")
   @Modifying
   @Transactional
-  public void softDelete(int classId);
+  public void softDelete(int subjectId);
 }

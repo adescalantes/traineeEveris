@@ -42,9 +42,30 @@ public interface SubjectService {
    */
   public Subject post(Subject subject);
 
+  /**
+   * Método para actualizar un objeto
+   * 
+   * @param subjectId Recibe un parámetro de tipo int para obtener el id del
+   *                  objeto
+   * @param classes   Recibe los atributos del objeto para luego actualizarlos
+   */
   public void putById(int subjectId, Subject subject);
 
+  /**
+   * Método para actualizar un solo campo de un objeto
+   * 
+   * @param subjectId Recibe un parámetro de tipo int para obtener el id del
+   *                  objeto
+   * @param fields    Recibe uno o más atributos del objeto para luego
+   *                  actualizarlos
+   */
   public void patchById(int subjectId, Map<String, Object> fields);
 
+  /**
+   * Método para eliminar un objeto
+   * 
+   * @param subjectId Recibe un parámetro de tipo int para obtener el id del
+   *                  objeto
+   */
   public void delete(int subjectId);
 }

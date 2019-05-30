@@ -12,8 +12,8 @@ import org.springframework.stereotype.Repository;
 import com.trainee.model.Teacher;
 
 /**
- * Repositorio de la entidad Teacher para la obtención de datos y realizar su
- * respectivo CRUD
+ * Repositorio de la entidad {@link Teacher} para la obtención de datos y
+ * realizar su respectivo CRUD
  * 
  * @see com.trainee.model.Teacher
  * @author aescalan
@@ -26,7 +26,7 @@ public interface TeacherRepository extends CrudRepository<Teacher, Integer> {
    * Método para obtener un objeto de {@link Teacher} donde el deleteStatus sea
    * igual a 1
    * 
-   * @param classId Recibe un parámetro de tipo int para obtener el id
+   * @param teacherId Recibe un parámetro de tipo int para obtener el id
    * @return objeto de la entidad Teacher
    */
   @Query("select t from Teacher t where t.deleteStatus=1 and t.id=?1")
@@ -49,12 +49,12 @@ public interface TeacherRepository extends CrudRepository<Teacher, Integer> {
    * @return lista de objetos de la entidad Teacher
    */
   @Query("select t from Teacher t where t.deleteStatus=0")
-  public List<Teacher> findDeletes(byte deleteStatus);
+  public List<Teacher> findDeletes();
 
   /**
    * Método para la eliminación lógica de un objeto de {@link Teacher}
    * 
-   * @param classId Recibe un parámetro de tipo int para obtener el id
+   * @param teacherId Recibe un parámetro de tipo int para obtener el id
    */
   @Query("update Teacher t set t.deleteStatus= 0 where t.id=?1")
   @Modifying

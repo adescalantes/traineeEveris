@@ -1,0 +1,153 @@
+2019-05-28 13:01:27,935 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 13:01:32,960 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 13:01:40,603 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 17.372 seconds (JVM running for 19.07)
+2019-05-28 13:02:06,152 | F6EEAA19988A48168807E95B30A6A6D1 | INFO com.trainee.service.implement.ClassServiceImplement  [http-nio-8443-exec-1] Getting all classes
+2019-05-28 13:29:28,537 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 13:29:34,442 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 13:31:21,269 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 13:31:26,405 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 13:31:34,852 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 18.331 seconds (JVM running for 19.877)
+2019-05-28 14:00:30,552 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 14:00:36,587 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 14:00:47,346 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 21.832 seconds (JVM running for 24.784)
+2019-05-28 14:08:22,491 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 14:08:27,599 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 14:08:35,715 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 17.802 seconds (JVM running for 19.144)
+2019-05-28 14:10:46,719 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 14:10:51,885 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 14:10:59,689 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 17.58 seconds (JVM running for 18.913)
+2019-05-28 14:12:51,861 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 14:12:57,021 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 14:13:04,606 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 17.363 seconds (JVM running for 18.862)
+2019-05-28 14:46:25,924 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 14:46:31,436 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 14:46:40,547 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 19.071 seconds (JVM running for 20.873)
+2019-05-28 15:01:27,032 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 15:01:32,251 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 15:01:41,964 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 19.4 seconds (JVM running for 20.688)
+2019-05-28 15:13:27,803 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 15:13:32,695 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 15:13:42,648 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 19.289 seconds (JVM running for 20.561)
+2019-05-28 15:15:31,291 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 15:15:36,496 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 15:15:46,263 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 19.467 seconds (JVM running for 20.806)
+2019-05-28 15:20:59,935 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 15:21:04,686 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 15:21:14,329 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 18.964 seconds (JVM running for 20.238)
+2019-05-28 15:23:58,644 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 15:24:03,824 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 15:24:13,682 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 19.564 seconds (JVM running for 21.009)
+2019-05-28 15:24:43,287 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 15:24:48,178 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 15:24:58,006 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 19.566 seconds (JVM running for 21.095)
+2019-05-28 15:25:38,865 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 15:25:43,744 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 15:25:53,605 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 19.381 seconds (JVM running for 21.018)
+2019-05-28 15:38:20,058 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 15:38:25,777 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 15:38:35,564 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 20.194 seconds (JVM running for 21.54)
+2019-05-28 16:24:54,008 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 16:25:00,461 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 16:25:10,320 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 20.933 seconds (JVM running for 22.471)
+2019-05-28 16:46:39,844 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 16:46:46,509 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 16:47:11,488 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 16:47:17,487 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 16:47:32,918 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 26.254 seconds (JVM running for 27.668)
+2019-05-28 16:49:42,282 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 16:49:48,491 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 16:49:58,972 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 21.763 seconds (JVM running for 25.454)
+2019-05-28 16:51:34,853 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 16:51:40,340 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 16:51:48,829 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 19.001 seconds (JVM running for 20.493)
+2019-05-28 16:52:46,084 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 16:52:51,423 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 16:53:00,134 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 18.697 seconds (JVM running for 19.983)
+2019-05-28 16:55:30,169 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 16:55:35,111 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 16:55:43,164 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 17.35 seconds (JVM running for 18.805)
+2019-05-28 17:12:41,175 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 17:12:48,386 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 17:12:58,230 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 22.447 seconds (JVM running for 23.78)
+2019-05-28 18:12:00,254 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:12:06,538 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:12:16,640 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 21.263 seconds (JVM running for 24.223)
+2019-05-28 18:13:13,184 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:13:18,656 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:13:26,996 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 18.449 seconds (JVM running for 19.805)
+2019-05-28 18:15:17,170 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:15:21,573 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:15:29,082 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 14.751 seconds (JVM running for 16.08)
+2019-05-28 18:16:14,996 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:16:19,484 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:16:26,496 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 13.817 seconds (JVM running for 15.166)
+2019-05-28 18:18:49,962 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:18:54,348 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:19:01,663 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 14.155 seconds (JVM running for 15.493)
+2019-05-28 18:20:51,162 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:20:55,554 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:21:04,718 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 16.1 seconds (JVM running for 17.551)
+2019-05-28 18:21:45,956 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:21:50,093 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:21:57,436 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 13.763 seconds (JVM running for 15.125)
+2019-05-28 18:23:38,299 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:23:42,721 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:23:49,912 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 14.021 seconds (JVM running for 15.326)
+2019-05-28 18:25:06,074 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:25:10,365 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:25:17,530 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 14.251 seconds (JVM running for 15.64)
+2019-05-28 18:30:29,544 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:30:33,920 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:30:41,725 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 14.767 seconds (JVM running for 16.277)
+2019-05-28 18:31:51,114 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:31:55,829 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:32:03,282 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 14.673 seconds (JVM running for 16.02)
+2019-05-28 18:33:55,318 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:33:59,809 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:34:07,704 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 15.235 seconds (JVM running for 16.945)
+2019-05-28 18:38:54,133 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:38:58,722 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:39:06,774 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 15.398 seconds (JVM running for 16.87)
+2019-05-28 18:39:38,684 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:39:43,244 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:39:50,964 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 14.765 seconds (JVM running for 16.152)
+2019-05-28 18:40:42,741 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:40:47,043 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:40:54,199 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 13.894 seconds (JVM running for 15.259)
+2019-05-28 18:41:41,553 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:41:45,868 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:41:53,743 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 14.725 seconds (JVM running for 16.198)
+2019-05-28 18:42:22,603 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:42:27,028 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:42:34,330 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 14.252 seconds (JVM running for 15.701)
+2019-05-28 18:43:42,154 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:43:46,531 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:43:54,301 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 14.783 seconds (JVM running for 16.16)
+2019-05-28 18:45:17,378 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:45:22,214 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:45:29,788 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 15.157 seconds (JVM running for 16.504)
+2019-05-28 18:46:46,062 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:46:50,536 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:46:57,985 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 14.568 seconds (JVM running for 15.979)
+2019-05-28 18:47:27,487 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:47:32,406 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:47:39,809 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 14.796 seconds (JVM running for 16.124)
+2019-05-28 18:48:25,828 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:48:30,523 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:48:37,732 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 14.673 seconds (JVM running for 15.989)
+2019-05-28 18:50:33,358 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:50:45,048 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:50:49,669 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:50:56,942 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 14.394 seconds (JVM running for 16.128)
+2019-05-28 18:51:38,184 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:51:42,762 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:51:50,305 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 14.873 seconds (JVM running for 16.344)
+2019-05-28 18:56:01,671 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 18:56:06,469 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 18:56:13,941 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 14.855 seconds (JVM running for 16.285)
+2019-05-28 19:01:23,628 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 19:01:28,119 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 19:01:35,543 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 14.352 seconds (JVM running for 15.715)
+2019-05-28 19:02:33,687 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 19:02:38,077 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 19:02:45,745 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started ServiceAApplication in 15.107 seconds (JVM running for 16.56)

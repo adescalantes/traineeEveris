@@ -10,6 +10,7 @@ import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
 import com.trainee.model.ClassModel;
+import com.trainee.model.projection.StudentProjection;
 
 /**
  * Repositorio de la entidad ClassModel para la obtención de datos y realizar su
@@ -61,4 +62,6 @@ public interface ClassRepository extends CrudRepository<ClassModel, Integer> {
   @Transactional
   public void softDelete(int classId);
 
+  @Query("select c from ClassModel c")
+  public List<StudentProjection> getAll();
 }

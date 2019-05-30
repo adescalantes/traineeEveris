@@ -14,6 +14,12 @@ import com.trainee.service.TeacherService;
 
 import lombok.extern.java.Log;
 
+/**
+ * Clase donde se implementa la lógica de {@link TeacherService}
+ * 
+ * @author aescalan
+ *
+ */
 @Log
 @Service
 public class TeacherServiceImplement implements TeacherService {
@@ -21,12 +27,18 @@ public class TeacherServiceImplement implements TeacherService {
   @Autowired
   TeacherRepository teacherRepository;
 
+  /**
+   * Método para retornar una lista de objetos
+   */
   @Override
   public List<Teacher> getAll() {
     log.info("Getting all Teachers");
     return teacherRepository.findAll();
   }
 
+  /**
+   * Método para retornar un objeto por id
+   */
   @Override
   public Teacher getById(int teacherId) {
     log.info("Getting Teacher by id");
@@ -34,6 +46,9 @@ public class TeacherServiceImplement implements TeacherService {
     return teacher;
   }
 
+  /**
+   * Método para crear un objeto
+   */
   @Override
   public Teacher post(Teacher teacher) {
     if (teacherRepository.findById(teacher.getId()) == null) {
@@ -45,6 +60,9 @@ public class TeacherServiceImplement implements TeacherService {
     }
   }
 
+  /**
+   * Método para actualizar un objeto
+   */
   @Override
   public void putById(int teacherId, Teacher teacher) {
     if (teacherRepository.findById(teacherId) != null) {
@@ -57,6 +75,9 @@ public class TeacherServiceImplement implements TeacherService {
 
   }
 
+  /**
+   * Método para eliminar un objeto
+   */
   @Override
   public void delete(int teacherId) {
     if (teacherRepository.findById(teacherId) != null) {
@@ -66,6 +87,9 @@ public class TeacherServiceImplement implements TeacherService {
 
   }
 
+  /**
+   * Método para acctualizar 1 o más campos del objeto
+   */
   @Override
   public void patchById(int teacherId, Map<String, Object> fields) {
     Teacher teacher = getById(teacherId);

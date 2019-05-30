@@ -12,7 +12,6 @@ import javax.persistence.Table;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.trainee.model.embeddable.PkStudentClass;
 
 import lombok.AllArgsConstructor;
@@ -41,7 +40,6 @@ public class StudentClass implements Serializable {
   @ManyToOne
   private ClassModel classes;
 
-  @JsonIgnore
   @Column(name = "delete_status")
   private byte deleteStatus = 1;
 

@@ -21,19 +21,43 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import com.trainee.model.Teacher;
 import com.trainee.service.TeacherService;
 
+import io.swagger.annotations.Api;
+import io.swagger.annotations.ApiOperation;
+
+/**
+ * RestController de la clase {@link Teacher} donde se usa el servicio
+ * {@link TeacherService}
+ * 
+ * @author aescalan
+ *
+ */
 @RestController
 @RequestMapping("/v1")
+@Api(tags = "CRUD TeacherController")
 public class TeacherController {
 
   @Autowired
   TeacherService teacherService;
 
+  /**
+   * Método orientado a obtener una lista de todos los objetos de la clase
+   * 
+   * @return todos los objetos de la clase
+   */
   @GetMapping(value = "/teachers")
+  @ApiOperation("Return all Teachers")
   public List<Teacher> getAll() {
     return teacherService.getAll();
   }
 
+  /**
+   * Método orientado a traer un objeto por id de la clase
+   * 
+   * @param teacherId recibe un id del objeto
+   * @return el objeto de la clase
+   */
   @GetMapping(value = "/teachers/{id}")
+  @ApiOperation("Return Teacher by id")
   public Teacher getById(@PathVariable("id") int teacherId) {
 //    Teachers parent = teacherService.getById(teacherId);
 //    if (parent == null)
@@ -42,7 +66,14 @@ public class TeacherController {
     return teacherService.getById(teacherId);
   }
 
+  /**
+   * Método orientado a crear un objeto para la clase
+   * 
+   * @param teacher recibe un objeto de la clase
+   * @return la locación donde se creo el objeto con su respectivo status http
+   */
   @PostMapping(value = "/teachers")
+  @ApiOperation("Create a Teacher")
   public ResponseEntity<Teacher> postTeacher(@RequestBody Teacher teacher) {
     Teacher p = teacherService.post(teacher);
 
@@ -50,19 +81,40 @@ public class TeacherController {
     return ResponseEntity.created(location).build();
   }
 
+  /**
+   * Método orientado a actualizar un objeto por id de la clase
+   * 
+   * @param teacherId recibe un id del objeto
+   * @param teacher   recibe un objeto de la clase
+   */
   @PutMapping(value = "/teachers/{id}")
+  @ApiOperation("Update a Teacher by id")
   public void putTeacher(@PathVariable("id") int teacherId, @RequestBody Teacher teacher) {
     teacherService.putById(teacherId, teacher);
   }
 
+  /**
+   * Método orientado a actualizar 1 o más campos de un objeto de la clase
+   * 
+   * @param teacherId recibe un id del objeto
+   * @param fields    recibe los campos del objeto
+   * @return un status http OK
+   */
   @PatchMapping(value = "/teachers/{id}")
-  public ResponseEntity<Teacher> patchClaim(@PathVariable("id") int teacherId,
+  @ApiOperation("Patch a Teacher by id")
+  public ResponseEntity<Teacher> patchTeacher(@PathVariable("id") int teacherId,
       @RequestBody Map<String, Object> fields) {
     teacherService.patchById(teacherId, fields);
     return new ResponseEntity<>(HttpStatus.OK);
   }
 
+  /**
+   * Método orientado a eliminar 1 objeto de la clase
+   * 
+   * @param teacherId recibe un id del objeto
+   */
   @DeleteMapping(value = "/teachers/{id}")
+  @ApiOperation("Delete a Teacher")
   public void deleteTeacher(@PathVariable("id") int teacherId) {
 //    Teachers teacher = teacherService.getById(teacherId);
 //    if (teacher == null)

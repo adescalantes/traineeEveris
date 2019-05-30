@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.Map;
 
 import com.trainee.model.ClassModel;
+import com.trainee.model.projection.StudentProjection;
 
 /**
  * Service para la entidad {@link ClassModel} que contiene los métodos
@@ -18,10 +19,12 @@ import com.trainee.model.ClassModel;
  */
 public interface ClassService {
 
+  public List<StudentProjection> getAllStudents();
+
   /**
    * Método para listar todos los objetos
    * 
-   * @return Una lista de objetos de la entidad ClassModel
+   * @return Una lista de objetos
    */
   public List<ClassModel> getAll();
 
@@ -29,7 +32,7 @@ public interface ClassService {
    * Método para obtener un objeto pasando por parámetro un id
    * 
    * @param classId Recibe un parámetro de tipo int para obtener el id del objeto
-   * @return Un objeto de la entidad ClassModel
+   * @return Un objeto
    */
   public ClassModel getById(int classId);
 
