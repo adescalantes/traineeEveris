@@ -1,0 +1,10 @@
+2019-05-28 16:26:25,330 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 16:26:29,637 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 16:26:46,900 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started TestApplication in 26.566 seconds (JVM running for 28.235)
+2019-05-28 16:50:53,063 | 2D32402C6A7743FA8FE5E77D508FD384 | INFO com.trainee.services.implement.StudentServiceImpl  [https-jsse-nio-8444-exec-4] Getting All Students
+2019-05-28 16:55:48,250 | 44531730FC974D438698352AB6F85482 | INFO com.trainee.services.implement.StudentServiceImpl  [https-jsse-nio-8444-exec-9] Getting All Students
+2019-05-28 16:55:52,874 | 89CE63A4F96649DE90E17F608C05A9D7 | INFO com.trainee.services.implement.StudentServiceImpl  [https-jsse-nio-8444-exec-10] Getting All Students
+2019-05-28 16:56:02,918 | 7D66E8ABAB504B6D9D71EE47F4FC1B60 | INFO com.trainee.services.implement.StudentServiceImpl  [https-jsse-nio-8444-exec-3] Getting All Students
+2019-05-28 17:14:11,256 |  | INFO org.springframework.boot.SpringApplication  [main] No active profile set, falling back to default profiles: default
+2019-05-28 17:14:24,660 |  | DEBUG org.springframework.web.filter.GenericFilterBean  [main] Filter 'slf4jMDCFilter' configured for use
+2019-05-28 17:14:50,103 |  | INFO org.springframework.boot.StartupInfoLogger  [main] Started TestApplication in 43.492 seconds (JVM running for 44.885)

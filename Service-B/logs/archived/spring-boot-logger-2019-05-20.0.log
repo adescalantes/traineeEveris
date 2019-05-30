@@ -1,0 +1,203 @@
+2019-05-20 00:02:32,994 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on Alex with PID 7484 (C:\Users\Alexander\git\test\test\target\classes started by Alexander in C:\Users\Alexander\git\test\test)
+2019-05-20 00:02:32,998 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 00:02:32,999 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 00:02:37,476 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 4.926 seconds (JVM running for 5.771)
+2019-05-20 00:03:12,613 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-5] Getting All Parents
+2019-05-20 00:05:21,785 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on Alex with PID 7888 (C:\Users\Alexander\git\test\test\target\classes started by Alexander in C:\Users\Alexander\git\test\test)
+2019-05-20 00:05:21,788 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 00:05:21,788 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 00:05:26,018 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 4.571 seconds (JVM running for 5.404)
+2019-05-20 00:05:50,266 DEBUG com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-6] Can't delete Parent
+2019-05-20 00:05:54,401 DEBUG com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-7] Can't delete Parent
+2019-05-20 00:06:11,337 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-10] Getting All Parents
+2019-05-20 00:06:12,605 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-1] Getting All Parents
+2019-05-20 00:07:30,825 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on Alex with PID 5028 (C:\Users\Alexander\git\test\test\target\classes started by Alexander in C:\Users\Alexander\git\test\test)
+2019-05-20 00:07:30,829 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 00:07:30,830 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 00:07:35,180 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 4.719 seconds (JVM running for 5.522)
+2019-05-20 00:07:37,733 DEBUG com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-5] Can't delete Parent
+2019-05-20 00:07:39,456 DEBUG com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-6] Can't delete Parent
+2019-05-20 00:08:01,808 DEBUG com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-7] Can't delete Parent
+2019-05-20 00:08:57,353 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on Alex with PID 9128 (C:\Users\Alexander\git\test\test\target\classes started by Alexander in C:\Users\Alexander\git\test\test)
+2019-05-20 00:08:57,355 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 00:08:57,356 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 00:09:01,567 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 4.586 seconds (JVM running for 5.408)
+2019-05-20 00:09:03,081 DEBUG com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-5] Can't delete Parent
+2019-05-20 00:09:43,440 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on Alex with PID 2036 (C:\Users\Alexander\git\test\test\target\classes started by Alexander in C:\Users\Alexander\git\test\test)
+2019-05-20 00:09:43,442 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 00:09:43,443 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 00:09:47,741 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 4.629 seconds (JVM running for 5.504)
+2019-05-20 00:20:51,498 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on Alex with PID 13212 (C:\Users\Alexander\git\test\test\target\classes started by Alexander in C:\Users\Alexander\git\test\test)
+2019-05-20 00:20:51,501 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 00:20:51,502 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 00:20:55,846 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 4.688 seconds (JVM running for 5.511)
+2019-05-20 10:08:01,534 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 2972 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 10:08:01,551 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 10:08:01,551 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 10:08:19,725 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 19.2 seconds (JVM running for 20.608)
+2019-05-20 10:09:05,170 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-5] Getting All Parents
+2019-05-20 10:18:28,709 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 6640 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 10:18:28,714 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 10:18:28,715 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 10:18:38,638 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 10.82 seconds (JVM running for 13.243)
+2019-05-20 10:21:27,607 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 4856 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 10:21:27,611 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 10:21:27,612 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 10:21:34,849 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 7.717 seconds (JVM running for 8.795)
+2019-05-20 10:24:03,095 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 1736 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 10:24:03,099 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 10:24:03,100 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 10:24:10,008 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 7.394 seconds (JVM running for 8.631)
+2019-05-20 10:24:35,283 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-6] Getting All Parents
+2019-05-20 10:26:04,044 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 11156 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 10:26:04,049 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 10:26:04,051 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 10:26:10,903 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 7.331 seconds (JVM running for 8.361)
+2019-05-20 10:27:37,265 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-9] Getting All Parents
+2019-05-20 10:30:38,929 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 8044 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 10:30:38,933 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 10:30:38,934 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 10:30:46,350 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 7.921 seconds (JVM running for 9.022)
+2019-05-20 10:31:08,376 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 1052 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 10:31:08,379 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 10:31:08,380 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 10:31:15,547 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 7.78 seconds (JVM running for 8.892)
+2019-05-20 10:31:19,983 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-7] Getting All Parents
+2019-05-20 10:34:26,700 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 1712 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 10:34:26,704 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 10:34:26,705 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 10:34:33,971 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 7.758 seconds (JVM running for 8.923)
+2019-05-20 10:34:52,002 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-7] Getting All Parents
+2019-05-20 10:36:42,980 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 7252 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 10:36:42,985 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 10:36:42,986 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 10:36:49,925 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 7.483 seconds (JVM running for 8.547)
+2019-05-20 10:37:12,604 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-10] Getting All Parents
+2019-05-20 10:45:49,292 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 10064 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 10:45:49,296 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 10:45:49,297 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 10:45:56,171 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 7.354 seconds (JVM running for 8.482)
+2019-05-20 10:46:07,225 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-6] Getting All Parents
+2019-05-20 10:46:53,195 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 3276 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 10:46:53,200 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 10:46:53,200 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 10:47:00,659 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 7.948 seconds (JVM running for 8.991)
+2019-05-20 10:47:09,678 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-6] Getting All Parents
+2019-05-20 10:48:04,069 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 14688 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 10:48:04,073 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 10:48:04,074 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 10:48:10,874 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 7.278 seconds (JVM running for 8.33)
+2019-05-20 10:48:20,467 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-6] Getting All Parents
+2019-05-20 10:48:53,967 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 8084 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 10:48:53,972 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 10:48:53,973 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 10:49:00,692 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 7.288 seconds (JVM running for 8.36)
+2019-05-20 10:49:05,604 INFO com.trainee.services.implement.ParentServiceImpl [http-nio-8443-exec-4] Getting All Parents
+2019-05-20 10:49:16,430 INFO com.trainee.services.implement.ParentServiceImpl [http-nio-8443-exec-8] Getting All Parents
+2019-05-20 10:49:27,329 INFO com.trainee.services.implement.ParentServiceImpl [http-nio-8443-exec-1] Getting All Parents
+2019-05-20 10:51:16,036 INFO com.trainee.services.implement.ParentServiceImpl [http-nio-8443-exec-5] Getting All Parents
+2019-05-20 10:52:30,058 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 11368 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 10:52:30,062 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 10:52:30,063 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 10:52:36,953 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 7.376 seconds (JVM running for 8.395)
+2019-05-20 10:52:46,553 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-7] Getting All Parents
+2019-05-20 10:53:26,106 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 2264 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 10:53:26,113 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 10:53:26,114 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 10:53:33,284 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 7.825 seconds (JVM running for 8.874)
+2019-05-20 10:53:38,690 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-6] Getting All Parents
+2019-05-20 10:54:13,246 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 9784 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 10:54:13,250 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 10:54:13,251 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 10:54:20,021 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 7.25 seconds (JVM running for 8.471)
+2019-05-20 10:54:25,541 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-7] Getting All Parents
+2019-05-20 10:55:17,538 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 10424 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 10:55:17,545 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 10:55:17,546 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 10:55:24,539 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 7.472 seconds (JVM running for 8.509)
+2019-05-20 10:55:30,884 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-6] Getting All Parents
+2019-05-20 10:56:38,743 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 456 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 10:56:38,746 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 10:56:38,747 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 10:56:45,633 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 7.363 seconds (JVM running for 8.349)
+2019-05-20 10:56:54,567 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-6] Getting All Parents
+2019-05-20 10:58:39,861 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 7796 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 10:58:39,867 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 10:58:39,868 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 10:58:46,866 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 7.58 seconds (JVM running for 8.665)
+2019-05-20 10:58:49,034 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-5] Getting All Parents
+2019-05-20 10:59:09,990 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 10468 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 10:59:09,994 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 10:59:09,995 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 10:59:16,757 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 7.261 seconds (JVM running for 8.373)
+2019-05-20 10:59:25,503 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-7] Getting All Parents
+2019-05-20 11:02:03,606 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 1452 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 11:02:03,610 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 11:02:03,611 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 11:02:10,654 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 7.535 seconds (JVM running for 8.75)
+2019-05-20 11:02:15,861 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-6] Getting All Parents
+2019-05-20 11:04:20,618 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 3292 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 11:04:20,622 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 11:04:20,625 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 11:04:21,747 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 7316 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 11:04:21,767 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 11:04:21,769 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 11:04:30,493 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 10.459 seconds (JVM running for 11.839)
+2019-05-20 11:04:42,069 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 11676 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 11:04:42,073 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 11:04:42,074 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 11:04:49,099 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 7.561 seconds (JVM running for 8.92)
+2019-05-20 11:04:53,525 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-5] Getting All Parents
+2019-05-20 11:09:39,174 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 11736 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 11:09:39,179 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 11:09:39,182 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 11:09:47,353 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 8.813 seconds (JVM running for 9.966)
+2019-05-20 11:09:57,170 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-6] Getting All Parents
+2019-05-20 11:11:35,718 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 12560 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 11:11:35,724 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 11:11:35,725 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 11:11:43,299 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 8.215 seconds (JVM running for 9.795)
+2019-05-20 11:11:48,416 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-6] Getting All Parents
+2019-05-20 11:13:36,124 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication on LIM-5CD5447V14 with PID 7356 (C:\Users\aescalan\git\test\test\target\classes started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 11:13:36,129 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 11:13:36,130 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 11:13:44,074 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 8.538 seconds (JVM running for 9.853)
+2019-05-20 11:13:56,399 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-5] Getting All Parents
+2019-05-20 11:13:59,667 INFO com.trainee.services.implement.ParentServiceImpl [https-jsse-nio-8443-exec-6] A new Parent was created
+2019-05-20 16:27:33,496 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplicationTests on LIM-5CD5447V14 with PID 4352 (started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 16:27:33,511 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 16:27:33,513 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 16:27:54,565 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplicationTests in 22.137 seconds (JVM running for 28.297)
+2019-05-20 16:29:01,813 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplicationTests on LIM-5CD5447V14 with PID 3344 (started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 16:29:01,815 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 16:29:01,818 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 16:29:15,917 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplicationTests in 15.047 seconds (JVM running for 17.196)
+2019-05-20 16:34:11,321 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplicationTests on LIM-5CD5447V14 with PID 12216 (started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 16:34:11,345 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 16:34:11,347 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 16:35:16,468 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplicationTests in 66.837 seconds (JVM running for 69.983)
+2019-05-20 16:36:16,082 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplicationTests on LIM-5CD5447V14 with PID 14268 (started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 16:36:16,086 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 16:36:16,094 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 16:36:33,774 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplicationTests in 18.788 seconds (JVM running for 21.16)
+2019-05-20 16:51:11,091 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplicationTests on LIM-5CD5447V14 with PID 9964 (started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 16:51:11,101 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 16:51:11,103 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 16:51:34,774 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplicationTests in 24.601 seconds (JVM running for 26.972)
+2019-05-20 16:52:44,247 INFO org.springframework.boot.StartupInfoLogger [main] Starting StudentControllerIT on LIM-5CD5447V14 with PID 12240 (started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 16:52:44,251 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 16:52:44,253 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 16:52:59,184 INFO org.springframework.boot.StartupInfoLogger [main] Started StudentControllerIT in 15.793 seconds (JVM running for 18.657)
+2019-05-20 16:52:59,479 INFO com.trainee.services.implement.StudentServiceImpl [main] Getting All Students
+2019-05-20 16:55:40,170 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplicationTests on LIM-5CD5447V14 with PID 11760 (started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 16:55:40,175 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 16:55:40,177 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 16:56:09,331 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplicationTests in 30.141 seconds (JVM running for 32.274)
+2019-05-20 17:03:10,849 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplicationTests on LIM-5CD5447V14 with PID 5540 (started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 17:03:10,874 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 17:03:10,876 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 17:03:48,593 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplicationTests in 38.991 seconds (JVM running for 41.891)
+2019-05-20 17:07:56,781 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplicationTests on LIM-5CD5447V14 with PID 10776 (started by aescalan in C:\Users\aescalan\git\test\test)
+2019-05-20 17:07:56,797 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-20 17:07:56,798 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-20 17:08:56,804 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplicationTests in 61.26 seconds (JVM running for 70.253)
